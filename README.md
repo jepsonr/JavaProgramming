@@ -31,7 +31,8 @@ Joyce Farrell Seventh Edition
 2.
 3.
 4.
-5.6.
+5.
+6.
 7.
 8.
 9.
@@ -48,5 +49,8 @@ Joyce Farrell Seventh Edition
 20.
 21.
 
+###Diagram of an instance of an object
+
+https://drive.google.com/file/d/0B51DUErT4YwPVzVkVWhIbHJRU1k/view?usp=sharing
 
 
