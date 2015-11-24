@@ -49,9 +49,9 @@ Joyce Farrell Seventh Edition
 20.
 21.
 
-###Diagram of an instance of an object
+####Diagram of an instance of an object
 
-[Instantiating an object](https://drive.google.com/file/d/0B51DUErT4YwPVzVkVWhIbHJRU1k/view)
+![Instantiating an object](https://drive.google.com/file/d/0B51DUErT4YwPVzVkVWhIbHJRU1k/view)
 
 
 
