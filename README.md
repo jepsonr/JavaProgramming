@@ -51,6 +51,6 @@ Joyce Farrell Seventh Edition
 
 ###Diagram of an instance of an object
 
-https://drive.google.com/file/d/0B51DUErT4YwPVzVkVWhIbHJRU1k/view?usp=sharing
+![Instantiating an object](https://drive.google.com/drive/u/0/folders/0B51DUErT4YwPYjR1bzNPbkw3QTA)
 
 
