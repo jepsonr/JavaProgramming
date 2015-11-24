@@ -25,3 +25,28 @@ Joyce Farrell Seventh Edition
 19. Why does the class and constructor have the same name – do they always have to?
 20. What is the difference between a user defined default and Java default constructors?
 21. What is the differece between a constuctor and class fields?
+
+####Write ideas, expainations,and definitions for the questions above (if it's a definition, cite your source):
+1. 
+2.
+3.
+4.
+5.6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+
+
+
