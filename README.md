@@ -53,5 +53,5 @@ Joyce Farrell Seventh Edition
 
 [Instantiating an object](https://drive.google.com/file/d/0B51DUErT4YwPVzVkVWhIbHJRU1k/view)
 
-[Two types of objects](https://drive.google.com/a/swatc.edu/file/d/0B51DUErT4YwPX21iUzhKbmxoVVU/view)
+[What is an object](https://drive.google.com/file/d/0B51DUErT4YwPN1d3bzFKdG1ZUDQ/view?usp=sharing)
 
