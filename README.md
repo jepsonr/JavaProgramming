@@ -27,7 +27,7 @@ Joyce Farrell Seventh Edition
 21. What is the differece between a constuctor and class fields?
 
 ####Write ideas, expainations,and definitions for the questions above (if it's a definition, cite your source):
-1. 
+1. No. The term ‘object’ in Java refers to an actual instance of a class, which is just a general template for making that object. 
 2.
 3.
 4.
