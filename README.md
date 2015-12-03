@@ -25,6 +25,7 @@ Joyce Farrell Seventh Edition
 19. Why does the class and constructor have the same name – do they always have to?
 20. What is the difference between a user defined default and Java default constructors?
 21. What is the differece between a constuctor and class fields?
+22. How does Eclipse work?
 
 ####Write ideas, expainations,and definitions for the questions above (if it's a definition, cite your source):
 1. 
@@ -48,6 +49,7 @@ Joyce Farrell Seventh Edition
 19.
 20.
 21.
+22. You have to let Eclipse create all of its own file structures. Never copy, paste, or move a file manually. And if you want to have a file structure for this course, create additional workspaces, projects, or source files, not packages.
 
 ####Diagram of an instance of an object
 
