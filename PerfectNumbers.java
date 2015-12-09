@@ -8,7 +8,8 @@ public class Perfect {
 		Scanner input = new Scanner(System.in);
 		
 		//enter a number greater than the desired set of perfect numbers
-		System.out.println("Enter upper limit for perfect numbers ");
+		System.out.println("Enter upper limit for the set of " 
+				   + "perfect numbers up to 9 digits long");
 		limit = input.nextInt();
 		
 		//calculation of Euclid-Euler theorem Mersenne primes
