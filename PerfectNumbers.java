@@ -13,8 +13,7 @@ public class Perfect {
 		limit = input.nextInt();
 		
 		//calculation of Euclid-Euler theorem Mersenne primes
-		exponent = (Math.log(.5+Math.sqrt(2*limit+.25)) 
-								/ Math.log(2));
+		exponent = (Math.log(.5+Math.sqrt(2*limit+.25)) / Math.log(2));
 		/*cycle through the set of factors to find the set of primes
 		 associated with the user's chosen limit*/
 		for(int prime = 2; prime <= exponent; prime++){
