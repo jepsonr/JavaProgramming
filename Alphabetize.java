@@ -1,4 +1,4 @@
-Java Programming <Joyce Farrell> 7th ed. Modified by <rex jepson>
+Java Programming <Joyce Farrell> 7th ed. Created/modified by <rex jepson>
 
 import javax.swing.*;
 public class Alphabetize{
