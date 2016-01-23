@@ -1,4 +1,5 @@
-
+//Java Programming <Joyce Farrell> 7th ed.Chapter 10 Exercise 10
+//created/modified by Rex Jepson <1/23/2016>
 
 import javax.swing.JOptionPane;
 public class Student extends Person{
