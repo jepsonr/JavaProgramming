@@ -38,10 +38,10 @@ public class bubbleSort {
 		
 		}//end for
 		
-		//calls the sort method based on salary
+		//calls the sort method which uses salary for sorting
 		sort(someEmp);
 		
-		//prints a table of Employees
+		//prints the sorted table of Employees
 		System.out.println("Employee information:");
 		System.out.println("Number \t First \t Last \t Salary");
 		for(int n = 0; n < len; n++){
@@ -54,6 +54,8 @@ public class bubbleSort {
 			System.out.println();
 		}//end for	
 	}//end main
+	
+	//bubble sort method based on Employee class and by salary
 	public static void sort(Employee[] array){
 		int x, y;
 		Employee temp;
