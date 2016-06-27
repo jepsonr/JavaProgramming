@@ -63,5 +63,5 @@ public class Alphabetize2 {
 		
 		//output in uppercase of the strings in order
 		System.out.println(result);
-	}//end main
+	}//end main 
 }
