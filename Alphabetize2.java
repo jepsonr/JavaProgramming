@@ -3,15 +3,17 @@ public class Alphabetize2 {
 
 	public static void main(String[] args) {
 
-		//declare variables
+		//declare String input variables
 		String first;
 		String second;
 		String third;
 		
+		//declare String output variables
 		String one;
 		String two;
 		String three;
-
+		
+		//stores concatonation of the three strings
 		String result;
 
 		/*enter phrases to be compared and 
@@ -22,7 +24,8 @@ public class Alphabetize2 {
 				"Enter 2nd phrase: ");
 		third  	= JOptionPane.showInputDialog(null, 
 				"Enter 3rd phrase: ");
-
+		
+		//change to uppercase for lexicon comparison
 		one = first.toUpperCase();
 		two = second.toUpperCase();
 		three = third.toUpperCase();
@@ -58,7 +61,7 @@ public class Alphabetize2 {
 				result = third + " " + second + " " + first;
 		}//end if
 		
+		//output in uppercase of the strings in order
 		System.out.println(result);
 	}//end main
-
 }
