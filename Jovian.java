@@ -1,3 +1,6 @@
+// parent class Alien.java 
+// called from CreateAliens.java application
+
 
 public class Jovian extends Alien{
 
