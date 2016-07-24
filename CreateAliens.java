@@ -1,3 +1,6 @@
+// instantiates child classes Jovian.java and Martian.java 
+// the parent class is Aliens.java 
+
 
 public class CreateAliens {
 	
