@@ -1,3 +1,5 @@
+//parent to Jovian.java and Martian.java
+//is called from CreateAliens.java application
 
 public abstract class Alien {
 	protected String group;
